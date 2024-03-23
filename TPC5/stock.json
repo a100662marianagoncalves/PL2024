@@ -1,0 +1,26 @@
+{
+    "stock": [
+        {"cod": "A23", "nome": "água 0.5L", "quant": 8, "preco": 0.7},
+        {"cod": "A24", "nome": "água 1.5L", "quant": 5, "preco": 1.2},
+        {"cod": "B30", "nome": "coca-cola", "quant": 3, "preco": 1.0},
+        {"cod": "B31", "nome": "fanta", "quant": 4, "preco": 1.0},
+        {"cod": "B32", "nome": "sprite", "quant": 5, "preco": 1.0},
+        {"cod": "C40", "nome": "sumo de maracujá", "quant": 2, "preco": 1.5},
+        {"cod": "C41", "nome": "sumo de laranja", "quant": 3, "preco": 1.5},
+        {"cod": "C42", "nome": "sumo de ananás", "quant": 4, "preco": 1.5},
+        {"cod": "D50", "nome": "cerveja", "quant": 6, "preco": 1.2},
+        {"cod": "D51", "nome": "vinho", "quant": 7, "preco": 1.5},
+        {"cod": "D52", "nome": "whisky", "quant": 8, "preco": 2.0},
+        {"cod": "E60", "nome": "batata frita", "quant": 9, "preco": 0.8},
+        {"cod": "E61", "nome": "tremoços", "quant": 10, "preco": 0.5},
+        {"cod": "E62", "nome": "amendoins", "quant": 11, "preco": 0.6},
+        {"cod": "F70", "nome": "hamburguer", "quant": 12, "preco": 2.0},
+        {"cod": "F71", "nome": "pizza", "quant": 13, "preco": 2.5},
+        {"cod": "F72", "nome": "tosta mista", "quant": 14, "preco": 1.5},
+        {"cod": "G80", "nome": "bolo de chocolate", "quant": 15, "preco": 1.0},
+        {"cod": "G81", "nome": "bolo de laranja", "quant": 16, "preco": 1.0},
+        {"cod": "G82", "nome": "bolo de cenoura", "quant": 17, "preco": 1.0},
+        {"cod": "H90", "nome": "pastel de nata", "quant": 18, "preco": 0.8}
+
+    ]
+}
