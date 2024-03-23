@@ -2,7 +2,7 @@
 
 **Autor**: Mariana Gonçalves, a100662
 
-O nosso codigo visa fazer os seguintes 5 passos: 
+O codigo visa fazer os seguintes 5 passos: 
 
 1. Inicializei uma máquina de venda, carregando os produtos de um arquivo JSON chamado 'stock.json'.
 
